@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hey, I'm Kartikeya 👋
 
-<!--
-**YoinkGecko/YoinkGecko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Distributed Systems | Node.js | TypeScript
 
-Here are some ideas to get you started:
+I'm passionate about building scalable backend systems and learning how production-grade software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- Distributed Job Scheduler
+- Event-Driven Architecture
+- Redis Streams
+- PostgreSQL
+- BullMQ
+
+## 🛠 Tech Stack
+
+Languages:
+- JavaScript
+- TypeScript
+- C++
+- SQL
+
+Backend:
+- Node.js
+- Express
+- Redis
+- PostgreSQL
+- Prisma
+
+Tools:
+- Docker
+- Git
+- Linux
+- Postman
+
+## 📌 Featured Projects
+
+### Distributed Job Scheduler
+A production-inspired distributed scheduler supporting:
+- Redis Streams
+- Consumer Groups
+- Outbox Pattern
+- Worker Heartbeats
+- Retry Mechanism
+- Dead Letter Queue
+
+### Goal Tracking System
+Role-based goal management platform with:
+- Authentication
+- Manager approvals
+- Quarterly reviews
+- BullMQ email jobs
+- Redis caching
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- System Design
+- Kubernetes
+- Kafka
+
+## 📫 Connect with me
+
+LinkedIn: <your-link>
+
+Email: <your-email>
