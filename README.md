@@ -30,7 +30,7 @@
 
 ## Executive Summary
 
-I am a Backend Engineer focused on architecting resilient, scalable distributed systems beyond standard REST interfaces. My primary technical focus centers on the internal mechanics of production infrastructure—including distributed consensus, event-driven pipelines, asynchronous message processing, and database query optimization.
+I am a Backend Engineer focused on architecting resilient, scalable distributed systems beyond standard REST interfaces. My primary technical focus centers on the internal mechanics of production infrastructure—including distributed consensus, asynchronous message processing, and database query optimization.
 
 ---
 
@@ -39,8 +39,6 @@ I am a Backend Engineer focused on architecting resilient, scalable distributed 
 * **Distributed Architecture:** Leader election mechanisms, worker heartbeats, and idempotent processing.
 * **Event-Driven Systems:** Message streaming via Redis Streams and queue-based processing with BullMQ.
 * **Data Persistence & Caching:** Schema design, indexing, PostgreSQL query optimization, and Redis caching topologies.
-* **Containerization & Orchestration:** Dockerized environments and active exploration of Kubernetes orchestration patterns.
-
 ---
 
 ## Featured Engineering Projects
@@ -142,13 +140,7 @@ I am a Backend Engineer focused on architecting resilient, scalable distributed 
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Core Milestones</h3>
-      <ul>
-        <li>Design and benchmark production-grade microservices.</li>
-        <li>Contribute to open-source infrastructure projects.</li>
-        <li>Solve 400+ algorithmic data structure problems.</li>
-        <li>Master high-availability architectural patterns.</li>
-      </ul>
+      
     </td>
   </tr>
 </table>
