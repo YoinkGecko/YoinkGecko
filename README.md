@@ -138,10 +138,6 @@ I am a Backend Engineer focused on architecting resilient, scalable distributed 
         <li>Apache Kafka event streaming pipelines.</li>
         <li>Kubernetes cluster management and deployment topologies.</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
-      
-    </td>
   </tr>
 </table>
 
