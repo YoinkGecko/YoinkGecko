@@ -103,27 +103,6 @@ I am a Backend Engineer focused on architecting resilient, scalable distributed 
 
 ---
 
-## Engineering Metrics & Activity
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=YoinkGecko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkGecko&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YoinkGecko&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
-
 ---
 
 ## Professional Focus & Objectives
